@@ -8,7 +8,7 @@
   
     "env": {
       "OWNER_NAME": {
-        "description": "Name for Bot Owner",
+        "description": "Wilk",
         "value": "Queen_Anita-V2",
         "required": true
       },
